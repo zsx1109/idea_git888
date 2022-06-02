@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("新建");
         System.out.println("第一次更新");
         System.out.println("dev的添加");
+        System.out.println("master的新添加");
     }
 }
